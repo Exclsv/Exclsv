@@ -29,12 +29,13 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on building
 * Radix UI
 * shadcn
 * Headless UI
+* GSAP
+* Framer-Motion
 
 #### 3D Graphics & Visualization
 
 * Three.js
 * React Three Fiber
-* WebGL
 * GLSL
 
 ### Let's Connect
