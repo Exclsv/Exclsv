@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate web developer focused on building
 * Exploring advanced state management with Zustand and TanStack Query
 * Creating dynamic user interfaces using Radix UI, shadcn, and Headless UI
 * Diving into 3D graphics and animations with Three.js and React Three Fiber
-* Experimenting with low-level graphics programming using WebGL and GLSL (Still learing)
+* Experimenting with low-level graphics programming GLSL (Still learing)
 
 ### Tech Stack
 
